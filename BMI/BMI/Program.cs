@@ -6,6 +6,8 @@ namespace BMI
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ああああ");
+
             Console.WriteLine("Hello World!");
         }
     }
